@@ -7,7 +7,7 @@ packages:
     actions:
       - name: random
         main: ''
-        runtime: 'java:default'
+        runtime: 'rust:default'
         environment: {}
         parameters: {}
 
