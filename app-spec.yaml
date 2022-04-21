@@ -1,5 +1,5 @@
 alerts:
-- rule: DEPLOYMENT_FAILED
+- rule: DEPLOYMENT_FAILEDxyz
 - rule: DOMAIN_FAILED
 functions:
 - github:
