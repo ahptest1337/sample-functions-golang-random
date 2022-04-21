@@ -7,7 +7,7 @@ packages:
     actions:
       - name: random
         main: ''
-        runtime: 'dotnet:default'
+        runtime: 'ruby:default'
         environment: {}
         parameters: {}
 
